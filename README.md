@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DamianStrz (Damian)
+- 👋 Hi, my name is Damian.
 - 👀 I’m searching for posibilities to develop my skills at JavaScript, React, WebDesign (newbie). 
 I'm also interested in music, learning new things and I like to share my knowledge to other people.
 - 🌱 I’m currently learning JavaScript and React mostly.
